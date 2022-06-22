@@ -1,5 +1,5 @@
 pandas==0.25.0
-numpy==1.16.0
+numpy==1.22.0
 scikit-learn==0.20.3
 basemap==1.2.1
 black
